@@ -24,3 +24,6 @@ Python3 Postgres (we used Postgres 14.5, but newer or older versions should also
 ## Start the server using the Command.
 	python3 manage.py runserver
 After this the app will be ready to use and use below APIs to interact with the app.
+
+## API Documentation
+	https://documenter.getpostman.com/view/15932967/2s8YemuZii#4910ad1f-3851-4985-8b64-4045ddcd603a
