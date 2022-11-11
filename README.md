@@ -32,4 +32,4 @@ After this the app will be ready to use and use below APIs to interact with the 
 	https://docs.google.com/document/d/1oGfRl_xgdmTtau9yl3_EElVRWoMZQtTpAAdNtE8WnfY/edit?usp=sharing
 
 ## Demo of the Application
-<video src="https://drive.google.com/file/d/1SxtRlEk1qQp7tTykArM_ASg9RxCvYvLn/view?usp=sharing"></video>
+	https://drive.google.com/file/d/1SxtRlEk1qQp7tTykArM_ASg9RxCvYvLn/view?usp=sharing
