@@ -27,3 +27,6 @@ After this the app will be ready to use and use below APIs to interact with the 
 
 ## API Documentation
 	https://documenter.getpostman.com/view/15932967/2s8YemuZii#4910ad1f-3851-4985-8b64-4045ddcd603a
+
+## Application Documentation
+	https://docs.google.com/document/d/1oGfRl_xgdmTtau9yl3_EElVRWoMZQtTpAAdNtE8WnfY/edit?usp=sharing
