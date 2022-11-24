@@ -4,6 +4,17 @@
 We assume you already have the following installed already: 
 Python3 Postgres (we used Postgres 14.5, but newer or older versions should also work). Installation instructions for all platforms can be found here. Alternatively, a simple SQLite database could also work.
 
+## Setup of the Project
+	Create a root directory <root>
+	Then open it in the terminal and start the virtual environment, using the command 'python3 -m venv venv'.
+	Then clone the repo 'git clone <url>'
+	Then start the virtual environment 'source venv/bin/activate'
+	Goto the application using the command 'cd Customer_Service_Messaging_Application'
+	Install all the dependencies using the command 'pip install -r requirements.txt'
+	Then run Migrations 'python manage.py makemigrations', then 'python manage.py migrate'
+	Then start the server using the command 'python manage.py runserver'
+	Use the documentation and postman collection to interact with the Application.
+
 ## Create the virtual environment using the Command.
 	python3 -m venv venv
 ## Start the virtual environment using the command to download all the dependencies inside the virtual environment with the proper versions.
