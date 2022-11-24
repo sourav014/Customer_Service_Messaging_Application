@@ -6,7 +6,7 @@ Python3 Postgres (we used Postgres 14.5, but newer or older versions should also
 
 ## Setup of the Project
 	Create a root directory <root>
-	Then open it in the terminal and start the virtual environment, using the command 'python3 -m venv venv'.
+	Then open it in the terminal and create a virtual environment, using the command 'python3 -m venv venv'.
 	Then clone the repo 'git clone <url>'
 	Then start the virtual environment 'source venv/bin/activate'
 	Goto the application using the command 'cd Customer_Service_Messaging_Application'
